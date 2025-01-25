@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there I'm Ayomide Agbaje👋
 
+
+
+
+## Technologies I Use
+#Languages: Python, Java
+#Frontend: HTML, CSS
 <!--
 **Emma-456/Emma-456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
